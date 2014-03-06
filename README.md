@@ -50,3 +50,10 @@ heroku run rake db:migrate
 ```
 heroku logs
 ```
+
+## ruby
+
+### rbenv
+
+[Rails開発環境の構築(rbenvでRuby導入からBundler, Rails導入まで)](http://qiita.com/emadurandal/items/a60886152a4c99ce1017)
+

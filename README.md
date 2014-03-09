@@ -37,6 +37,19 @@ Model.find_all_by_xxx
 Model.fine_by_xxx
 ```
 
+### rake db:reset
+
+データベースをdropし、db/schema.rbに書かれている現在のschemaをロードする
+(db/migrate以下のファイルはみない)
+
+### rake db:migrate:reset
+
+データベースをdropし、db/migrate以下のファイルに書かれているマイグレーションにもとづいてデータベースを作る。
+
+### rbenv
+
+[Rails開発環境の構築(rbenvでRuby導入からBundler, Rails導入まで)](http://qiita.com/emadurandal/items/a60886152a4c99ce1017)
+
 ## Heroku
 
 ### migration
@@ -50,10 +63,4 @@ heroku run rake db:migrate
 ```
 heroku logs
 ```
-
-## ruby
-
-### rbenv
-
-[Rails開発環境の構築(rbenvでRuby導入からBundler, Rails導入まで)](http://qiita.com/emadurandal/items/a60886152a4c99ce1017)
 

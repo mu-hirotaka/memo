@@ -58,6 +58,18 @@ Model.fine_by_xxx
 heroku run rake db:migrate
 ```
 
+### pg db reset
+
+```
+heroku pg:reset DATABASE_URL
+```
+
+### master投入
+
+```
+heroku run rake db:seed
+```
+
 ### log
 
 ```

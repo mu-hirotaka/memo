@@ -9,3 +9,5 @@
 * [TechCrunch](http://jp.techcrunch.com/)
 * [vsmedia](http://vsmedia.info/)
 * [GameBusiness.jp](http://www.gamebusiness.jp/)
+* [lifehacker](http://www.lifehacker.jp/)
+

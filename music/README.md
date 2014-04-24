@@ -10,3 +10,5 @@
 * stereophonics - dakota
 * Taylor Swift - The Last Time ft. Gary Lightbody
 * Phillip Phillips - Gone, Gone, Gone
+* LGMonkees - 3090 〜愛のうた〜
+* LGMonkees - Grateful Days

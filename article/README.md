@@ -10,4 +10,4 @@
 * [vsmedia](http://vsmedia.info/)
 * [GameBusiness.jp](http://www.gamebusiness.jp/)
 * [lifehacker](http://www.lifehacker.jp/)
-
+* [Harvard Business Review](http://www.dhbr.net/)

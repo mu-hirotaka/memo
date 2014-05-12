@@ -9,6 +9,7 @@
 * [gihyo](http://gihyo.jp/)
 * [CodeZine](http://codezine.jp/)
 * [TechCrunch](http://jp.techcrunch.com/)
+* [STYLE4Design](http://design.style4.info/)
 * [vsmedia](http://vsmedia.info/)
 * [GameBusiness.jp](http://www.gamebusiness.jp/)
 * [lifehacker](http://www.lifehacker.jp/)

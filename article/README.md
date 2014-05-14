@@ -1,5 +1,6 @@
 # Links
 
+* [growth hack japan](http://growthhackjapan.com/)
 * [cnet](http://japan.cnet.com/)
 * [ファミ通App](http://app.famitsu.com/)
 * [ログミー](http://logmi.jp/)

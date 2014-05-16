@@ -11,6 +11,7 @@
 * [CodeZine](http://codezine.jp/)
 * [TechCrunch](http://jp.techcrunch.com/)
 * [STYLE4Design](http://design.style4.info/)
+* [Techable](http://techable.jp/)
 * [vsmedia](http://vsmedia.info/)
 * [GameBusiness.jp](http://www.gamebusiness.jp/)
 * [lifehacker](http://www.lifehacker.jp/)

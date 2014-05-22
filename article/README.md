@@ -17,6 +17,7 @@
 * [lifehacker](http://www.lifehacker.jp/)
 * [Spotlight](http://spotlight-media.jp/)
 * [Harvard Business Review](http://www.dhbr.net/)
+* [academyhills](http://www.academyhills.com/)
 * [.vn](http://www.venturenow.jp/)
 * [VB](http://venturebeat.com/)
 * [TNW](http://thenextweb.com/)

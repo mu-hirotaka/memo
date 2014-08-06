@@ -21,3 +21,4 @@
 * [.vn](http://www.venturenow.jp/)
 * [VB](http://venturebeat.com/)
 * [TNW](http://thenextweb.com/)
+* [BuildINSIDER](http://www.buildinsider.net/)

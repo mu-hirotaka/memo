@@ -2,6 +2,7 @@
 
 * [cnet](http://japan.cnet.com/)
 * [ログミー](http://logmi.jp/)
+* [AppMarketingLabo](http://appmarketinglabo.net/)
 * [BRIDGE](http://thebridge.jp/)
 * [ITmedia](http://www.itmedia.co.jp/news/)
 * [gihyo](http://gihyo.jp/)
